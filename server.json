@@ -1,0 +1,52 @@
+{
+    "produtos" : [
+        {
+            "id": 1,
+            "photo" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaST6T1AZZ5YkuUqiCPYZHu7zmdIm6TZcVtJzzQ5omQqbZCifrLQ44iN6xNW0TH-SPHSY&usqp=CAU",
+            "description" : "Descrição do produto",
+            "name":"Zé do Morro",
+            "ml":"350", 
+            "price": 5000
+        },
+        {
+            "id": 2,
+            "photo" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkh1u6FEPC9A_xKiMi3wtNhY1E5DrvG-lY8d44nAY7rMdkhHh-XtnZNqT41r1QGLH3BP4&usqp=CAU",
+            "description" : "Descrição do produto",
+            "name":"Willy the Bitter",
+            "ml":"350",
+            "price": 5000
+        },
+        {
+            "id": 4,
+            "photo" : "https://cdn.awsli.com.br/300x300/1340/1340476/produto/76362749d97a572934.jpg",
+            "description" : "Descrição do produto",
+            "name":"Jean Le Blanc",
+            "ml":"350",
+            "price": 5000
+        },
+        {
+            "id": 5,
+            "photo" : "https://assets.betalabs.net/production/bastardsbrewery/item-images/84142ac8e917406fbc5cbc8a8f3a1708.jpg",
+            "description" : "Descrição do produto",
+            "name":"Juice Jill",
+            "ml":"350",
+            "price": 5000
+        },
+        {
+            "id": 6,
+            "photo" : "https://bardocelso.com/wp-content/uploads/2016/09/cerveja-dog-save-the-beer.png",
+            "description" : "Descrição do produto",
+            "name":"Dog Save The Beer",
+            "ml":"350",
+            ",price": 5000
+        },
+        {
+            "id": 7,
+            "photo" : "https://clubedomalte.fbitsstatic.net/img/p/bastards-mark-the-shadow-64767/231620.jpg?w=422&h=422&v=no-change",
+            "description" : "Descrição do produto",
+            "name":"Mark Shadow",
+            "ml":"350",
+            "price": 5000
+        }
+    ]
+}
